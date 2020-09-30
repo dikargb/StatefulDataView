@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  StatefulDataViewExample
 //
-//  Created by Krisnandika Aji on 30/09/20.
+//  Created by Sinar Nirmata on 30/09/20.
 //  Copyright © 2020 Sinar Nirmata. All rights reserved.
 //
 
